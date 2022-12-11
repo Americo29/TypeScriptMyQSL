@@ -13,7 +13,7 @@
     "dependencies": {
         "copyfile": "^0.1.2",
         "copyfiles": "^2.1.1",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "mysql": "github:mysqljs/mysql"
     },
     "devDependencies": {
